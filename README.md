@@ -1,12 +1,12 @@
+[![starsBadge]][stargazers]
+[![forksBadge]][forks]
+[![issuesBadge]][issues]
+![sizeBadge]
+![codelinesBadge]
+[![codeOfConductBadge]][codeOfConduct]
 
-</br><pre style="text-align:center;"><div style="display:block; margin-left:auto; margin-right:auto; width:100%;">
-  ██████  ▄████▄   ▄▄▄       ██▀███  ▓█████  ▄████▄   ██▀███   ▒█████   █     █
-▒██    ▒ ▒██▀ ▀█  ▒████▄    ▓██   ██▒▓█   ▀ ▒██▀ ▀█  ▓██ ▒ ██▒▒██▒  ██▒▓█░ █ ░█
-░ ▓██▄   ▒▓█    ▄ ▒██  ▀█▄  ▓██ ░▄█ ▒▒███   ▒▓█    ▄ ▓██ ░▄█ ▒▒██░  ██▒▒█░ █ ░█
-  ▒   ██▒▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██▀▀█▄  ▒▓█  ▄ ▒▓▓▄ ▄██▒▒██▀▀█▄  ▒██   ██░░█░ █ ░█
-▒██████▒▒▒ ▓███▀ ░ ▓█   ▓██▒░██▓ ▒██▒░▒████▒▒ ▓███▀ ░░██▓ ▒██▒░ ████▓▒░░░██▒██▓
-▒ ▒▓▒ ▒ ░░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░░░ ▒░ ░░ ░▒ ▒  ░░ ▒▓ ░▒▓░░ ▒░▒░▒░ ░ ▓░▒ ▒
-░ ░▒  ░ ░  ░  ▒     ▒   ▒▒ ░  ░▒ ░ ▒░ ░ ░  ░  ░  ▒     ░▒ ░ ▒░  ░ ▒ ▒░   ▒ ░ ░
-░  ░  ░  ░          ░   ▒     ░░   ░    ░   ░          ░░   ░ ░ ░ ░ ▒    ░   ░
-      ░  ░ ░            ░  ░   ░        ░  ░░ ░         ░         ░ ░      ░
-         ░                                  ░                                  </div></pre>
+![uniqueUsersBadge]
+![totalrunsbadge]
+![successratebadge]
+
+[![discordBadge]][Discord]
