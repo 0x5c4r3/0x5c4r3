@@ -1,5 +1,5 @@
 
-</br><pre ><div style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+</br><pre text-align=center;><div style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
   ██████  ▄████▄   ▄▄▄       ██▀███  ▓█████  ▄████▄   ██▀███   ▒█████   █     █
 ▒██    ▒ ▒██▀ ▀█  ▒████▄    ▓██   ██▒▓█   ▀ ▒██▀ ▀█  ▓██ ▒ ██▒▒██▒  ██▒▓█░ █ ░█
 ░ ▓██▄   ▒▓█    ▄ ▒██  ▀█▄  ▓██ ░▄█ ▒▒███   ▒▓█    ▄ ▓██ ░▄█ ▒▒██░  ██▒▒█░ █ ░█
