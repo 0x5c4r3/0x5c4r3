@@ -18,7 +18,5 @@ I'm an OSEP, OSCP, OSWP Red Team Penetration Tester with experience in most type
 
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-<br />
-<br />
 
 </div>
