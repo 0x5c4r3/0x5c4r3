@@ -1,15 +1,15 @@
-[![starsBadge]][stargazers]
-[![forksBadge]][forks]
-[![issuesBadge]][issues]
+![starsBadge]]
+![forksBadge]]
+![issuesBadge]]
 ![sizeBadge]
 ![codelinesBadge]
-[![codeOfConductBadge]][codeOfConduct]
+![codeOfConductBadge]][codeOfConduct]
 
 ![uniqueUsersBadge]
 ![totalrunsbadge]
 ![successratebadge]
 
-[![discordBadge]][Discord]
+![discordBadge]][Discord]
 
 
 
