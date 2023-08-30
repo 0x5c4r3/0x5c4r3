@@ -1,6 +1,5 @@
-<style> .center { display: block; margin-left: auto; margin-right: auto; width: 100%; } </style> 
 
-</br><pre class="center"><div>
+</br><pre style="display: block; margin-left: auto; margin-right: auto; width: 100%;"><div>
   ██████  ▄████▄   ▄▄▄       ██▀███  ▓█████  ▄████▄   ██▀███   ▒█████   █     █
 ▒██    ▒ ▒██▀ ▀█  ▒████▄    ▓██   ██▒▓█   ▀ ▒██▀ ▀█  ▓██ ▒ ██▒▒██▒  ██▒▓█░ █ ░█
 ░ ▓██▄   ▒▓█    ▄ ▒██  ▀█▄  ▓██ ░▄█ ▒▒███   ▒▓█    ▄ ▓██ ░▄█ ▒▒██░  ██▒▒█░ █ ░█
