@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I'm an OSEP, OSCP and OSWP Red Team Penetration Tester with experience in most types of assessments, but no mobile stuff. Mobile stuff sucks.
+I'm an OSEP, OSCP, OSWP and CRTO Red Team Penetration Tester with experience in most types of assessments, but no mobile stuff. Mobile stuff sucks.
 <br />
 
 
